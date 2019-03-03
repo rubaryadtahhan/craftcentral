@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Code for the Edit Designer Maker Profile feature.
+ */
+
+include_once 'edit_designer_maker_profile.features.inc';

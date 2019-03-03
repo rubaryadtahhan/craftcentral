@@ -1,0 +1,8 @@
+<?php
+
+/**
+ * @file
+ * Code for the Designer Makers Profile feature.
+ */
+
+include_once 'designer_makers_profile.features.inc';

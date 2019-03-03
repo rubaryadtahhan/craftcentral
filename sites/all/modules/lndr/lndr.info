@@ -1,0 +1,13 @@
+name = Lndr landing page agent
+description = Allow deployment of landing pages from Lndr to Drupal websites
+core = 7.x
+package = Others
+version = 7.x-1.0
+configure = admin/config/content/lndr
+dependencies[] = path
+; Information added by Drupal.org packaging script on 2018-01-29
+version = "7.x-1.2"
+core = "7.x"
+project = "lndr"
+datestamp = "1517260086"
+
